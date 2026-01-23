@@ -3,7 +3,7 @@
 [![EDIR Paper (ACL 2025)](https://img.shields.io/badge/arXiv-2601.16125-red)](https://arxiv.org/abs/2601.16125)
 
 Official repository for the paper [Rethinking Composed Image Retrieval Evaluation: A Fine-Grained
-Benchmark from Image Editing](https://arxiv.org/abs/). 
+Benchmark from Image Editing](https://arxiv.org/abs/2601.16125). 
 
 <img src="asserts/overview.png"> 
 

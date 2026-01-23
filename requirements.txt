@@ -1,0 +1,4 @@
+transformers==4.5.1 # >=4.5.1 <= 4.5.7 
+torch==2.7.0 # >=2.0.0
+pytrec_eval
+qwen-vl-utils
